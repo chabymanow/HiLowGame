@@ -1,6 +1,6 @@
 # HiLowGame #
 ---
-##Hi-Low game for terminal.
+Hi-Low game for terminal.
 For one or two players. Each player start with $100 and can choose bet before each game.
 ---
 Game rules:
